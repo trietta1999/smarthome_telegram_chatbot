@@ -1,0 +1,40 @@
+<RCC>
+  <qresource prefix="background">
+    <file>icon/stair.png</file>
+    <file>icon/warning.png</file>
+    <file>icon/sync.png</file>
+    <file>icon/lamp1.png</file>
+    <file>icon/lamp2.png</file>
+    <file>icon/down.png</file>
+    <file>icon/left.png</file>
+    <file>icon/right.png</file>
+    <file>icon/up.png</file>
+    <file>icon/reloading.png</file>
+    <file>icon/night-mode.png</file>
+    <file>icon/off.png</file>
+    <file>icon/password.png</file>
+    <file>icon/clothesline_off.png</file>
+    <file>icon/sunlight_clothesline.png</file>
+    <file>icon/sun.png</file>
+    <file>icon/sw_off.png</file>
+    <file>icon/swh_off.png</file>
+    <file>icon/swh_on.png</file>
+    <file>icon/sw_on.png</file>
+    <file>icon/qr-code.png</file>
+    <file>icon/key.png</file>
+    <file>icon/remote-control.png</file>
+    <file>icon/user.png</file>
+    <file>icon/pause-button.png</file>
+    <file>icon/play.png</file>
+    <file>icon/stop-button.png</file>
+    <file>icon/smoke_detector.png</file>
+    <file>icon/smoke_detector_on.png</file>
+    <file>icon/door.png</file>
+    <file>icon/door_open.png</file>
+    <file>icon/lamp_off.png</file>
+    <file>icon/lamp.png</file>
+    <file>icon/humidity.png</file>
+    <file>icon/thermometer.png</file>
+    <file>image/qr.png</file>
+  </qresource>
+</RCC>

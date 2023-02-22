@@ -1,0 +1,7 @@
+opencv_python
+pyotp
+PyQt5
+python_telegram_bot
+requests
+telegram
+telepot

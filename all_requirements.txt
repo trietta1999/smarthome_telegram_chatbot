@@ -1,0 +1,10 @@
+dht11
+opencv_python
+pyA20
+pyotp
+PyQt5
+python_telegram_bot
+requests
+smbus
+telegram
+telepot

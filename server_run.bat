@@ -1,0 +1,1 @@
+python -m uploadserver 8002

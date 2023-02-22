@@ -1,0 +1,5 @@
+start - Bắt đầu cuộc trò chuyện
+admin - Các lệnh quản lý hệ thống
+control - Điều khiển các thiết bị điện
+info - Xem các thông số về môi trường
+end - Kết thúc cuộc trò chuyện
