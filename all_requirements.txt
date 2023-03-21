@@ -1,10 +1,11 @@
 dht11
-opencv_python
+opencv-python
 pyA20
 pyotp
 PyQt5
-python_telegram_bot
+python-telegram-bot
 requests
 smbus
 telegram
 telepot
+uploadserver
